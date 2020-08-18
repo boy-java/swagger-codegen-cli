@@ -1,0 +1,1 @@
+java -jar .\swagger-codegen-cli-2.4.9.jar generate -i .\swagger.json -l typescript-angularjs -o .\output\
